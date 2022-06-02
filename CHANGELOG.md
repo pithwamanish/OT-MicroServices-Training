@@ -8,3 +8,4 @@
 - test commit
 - commit
 - commit
+- commit -d
